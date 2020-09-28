@@ -28,7 +28,7 @@ There are two obvious advantages of this data type
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Here is how you sett up this project locally
+Here is how you set up this project locally
 
 ### Installation
 
